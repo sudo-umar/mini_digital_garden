@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "cea7ba38b2fb2c5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4525cc8e0a516fc",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Why convolutions.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b72c7cf6ad1a079",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc992ec271148de1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5367b5876cad074",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d235a689ef7ca670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7b9821d64ae8749",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ed8a377bc90356e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c6b31fb5894da20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Why convolutions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Model Performance.md",
+    "Data Visualization.md",
+    "Programming/SIMD Programming.md",
+    "chart sheet of ML/Models.md",
+    "Density Estimation.md",
+    "Models.md",
+    "Data Preparation.md",
+    "Chart sheet of ML.md",
+    "Data Preprocessing in ML.md"
+  ]
+}
